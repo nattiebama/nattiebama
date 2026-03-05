@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @nattiebama
-- 👀 I’m interested in ...
-- 🌱 I’m currently WORKING aS A DevOps Engineer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Esther Anifalaje
+DevOps Engineer | AWS | Terraform | Kubernetes | CI/CD Automation | Linux
+Founder of Nattiebama Webdesign LLC – delivering cloud infrastructure, DevOps automation, and scalable web platforms.
 
-<!---
-nattiebama/nattiebama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Technical Skills
+Cloud: AWS (EC2, S3, IAM, VPC, CloudWatch)
+IaC: Terraform, CloudFormation
+CI/CD: Jenkins, GitHub Actions
+Containers: Docker, Kubernetes
+OS: Linux (Ubuntu, CentOS)
+Monitoring: Prometheus, Grafana
+Scripting: Bash, Python
+
+## DevOps Projects
+Terraform AWS Infrastructure
+CI/CD Pipeline Automation
+Docker & Kubernetes Deployment
+
+## Currently Preparing
+AWS Certified Solutions Architect
+
+## Website
+https://nattiebamawebdesign.com
